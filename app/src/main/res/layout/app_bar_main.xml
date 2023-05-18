@@ -53,7 +53,7 @@
             <!--放置Fragment的main_body-->
         </LinearLayout>
 
-        <!--        教学计划-->
+        <!--        主页-->
         <LinearLayout
                 android:id="@+id/main_bottom_bar"
                 android:layout_alignParentBottom="true"
@@ -76,7 +76,7 @@
                         android:layout_marginBottom="3dp"
                         android:gravity="center"
                         android:singleLine="true"
-                        android:text="教学计划"
+                        android:text="主页"
                         android:textColor="#666666"
                         android:textSize="14sp"/>
                 <ImageView

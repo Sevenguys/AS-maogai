@@ -32,8 +32,8 @@ public class ShareFragment extends Fragment {
         Intent intent=new Intent(Intent.ACTION_SEND);
         intent.setType("text/plain");
         intent.putExtra(Intent.EXTRA_SUBJECT, "分享");
-        intent.putExtra(Intent.EXTRA_TEXT, "欢迎使用毛中特思想学习" +
-                    "http:/192.168.60.1/androidData/down.html");
+        intent.putExtra(Intent.EXTRA_TEXT, "欢迎使用集课堂" +
+                "http://47.100.53.114/soft/down.html");
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(Intent.createChooser(intent, getActivity().getTitle()));
     }

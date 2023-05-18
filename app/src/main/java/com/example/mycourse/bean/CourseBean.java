@@ -6,4 +6,5 @@ public class CourseBean {
     public String title;
     public String intro;
     public String icon;
+    public String date;
 }

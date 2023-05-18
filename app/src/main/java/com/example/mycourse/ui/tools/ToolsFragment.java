@@ -1,6 +1,5 @@
 package com.example.mycourse.ui.tools;
 
-import android.annotation.SuppressLint;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
@@ -22,7 +21,7 @@ public class ToolsFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.activity_splash, container, false);
-        @SuppressLint({"MissingInflatedId", "LocalSuppress"}) final TextView textView = root.findViewById(R.id.text_tools);
+        final TextView textView = root.findViewById(R.id.text_tools);
         TextView tv_version = root.findViewById(R.id.tv_version);
         try {
             PackageInfo packageInfo = getActivity().getPackageManager().getPackageInfo(getActivity().getPackageName(),0);
