@@ -84,7 +84,6 @@ public class ExercisesListItemAdapter extends BaseAdapter {
         if (bean != null) {
             holder.tvOrder.setText(position + 1 + "");
             holder.tvTitle.setText(bean.title);
-
             Log.i("readExercises", AnalysisUtils.readExerciseStatus(context,position+1)+"");
             if (AnalysisUtils.readExerciseStatus(context,position+1)){
                 holder.tvContent.setText("已完成");

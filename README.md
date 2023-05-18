@@ -30,5 +30,10 @@
 
 使用idea自带模拟器课件部分无法显示，建议使用逍遥模拟器（已进行实机测试）。
 
+包名：在app.manifests.AndroidManifest.xml中的package
 
+用户数据库位置：在安卓机的data/data/<包名>/shared_prefs/loginInfo.xml
 
+课件位置：VideoListActivity
+
+视频位置：data.json

@@ -1,5 +1,6 @@
 package com.example.mycourse.fragment;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
@@ -33,7 +34,7 @@ public class ChatFragment extends Fragment {
                              ViewGroup container, Bundle savedInstanceState) {
 
         View root = inflater.inflate(R.layout.fragment_chat, container, false);
-        final TextView textView = root.findViewById(R.id.text_send);
+        @SuppressLint({"MissingInflatedId", "LocalSuppress"}) final TextView textView = root.findViewById(R.id.text_send);
         final EditText mFeedBackEditText = (EditText) root.findViewById(R.id.fee_back_edit);
         Button mSendFeedBackButton = (Button) root.findViewById(R.id.feed_back_btn);
         mSendFeedBackButton.setOnClickListener(new View.OnClickListener() {

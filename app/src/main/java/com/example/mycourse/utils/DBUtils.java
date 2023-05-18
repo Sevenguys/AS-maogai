@@ -1,5 +1,6 @@
 package com.example.mycourse.utils;
 
+import android.annotation.SuppressLint;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -90,6 +91,7 @@ public class DBUtils {
         cursor.close();
         return hasVideo;
     }
+    @SuppressLint("Range")
     public List<VideoBean> getVideoHistory(String s){
         String sql = "SELECT * FROM " + SQLiteHelper.U_VIDEO_PLAY_LIST + " WHERE userName=?";
         Cursor cursor = db.rawQuery(sql, new String[]{s});

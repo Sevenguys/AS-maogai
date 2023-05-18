@@ -13,11 +13,17 @@ import com.example.mycourse.bean.ExercisesBean;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @Classname ExercisesFragment
+ * @Description TODO
+ * @Date 2021/1/16 16:18
+ * @Created by yujun059
+ */
 public class ExercisesFragment extends Fragment {
 
     private ListView vlist;//传给fragment_exercises
     private ExercisesListItemAdapter adapter; //适配器
-    private List<ExercisesBean> beanlist; //
+    private List<ExercisesBean> beanlist; //列表集合
 
     @Override
     //创建该fragment对应的视图

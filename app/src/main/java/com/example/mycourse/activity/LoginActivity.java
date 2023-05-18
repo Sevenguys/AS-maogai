@@ -98,7 +98,7 @@ public class LoginActivity extends AppCompatActivity {
                     Toast.makeText(LoginActivity.this, "登录成功", Toast.LENGTH_SHORT).show();
                     //保存登录状态，在界面保存登录的用户名 定义个方法 saveLoginStatus boolean 状态 , userName 用户名;
                     saveLoginStatus(true, userName);
-                    //登录成功后关闭此页面进入主页
+                    //登录成功后关闭此页面进入教学计划
                     Intent data=new Intent();
                     //datad.putExtra( ); name , value ;
                     data.putExtra("isLogin",true);

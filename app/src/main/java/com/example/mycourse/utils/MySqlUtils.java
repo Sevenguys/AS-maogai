@@ -5,7 +5,12 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
+/**
+ * @Classname MySqlUtils
+ * @Description TODO
+ * @Date 2021/1/18 21:01
+ * @Created by yujun059
+ */
 public class MySqlUtils {
     static String driver="com.mysql.jdbc.Driver";
     static String url="jdbc:mysql://47.100.53.114/android";

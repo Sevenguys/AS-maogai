@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">集课堂</string>
+    <string name="app_name">毛概中特思想学习</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">集课堂</string>
-    <string name="nav_header_subtitle">欢迎来到集课堂</string>
+    <string name="nav_header_title">毛概中特思想学习</string>
+    <string name="nav_header_subtitle">欢迎来到毛概中特思想学习</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">设置</string>
 
-    <string name="menu_home">主页</string>
+    <string name="menu_home">教学计划</string>
     <string name="menu_gallery">我的收藏</string>
     <string name="menu_slideshow">意见反馈</string>
     <string name="menu_tools">版本信息</string>

@@ -180,9 +180,9 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                 bottom_bar_image_course.setImageResource(R.drawable.main_course_icon);
                 bottom_bar_image_read.setImageResource(R.drawable.main_read_icon);
                 getSupportFragmentManager().beginTransaction().replace(R.id.main_body,new HomeFragment()).commit();
-                tv_main_title.setText("主页");
+                tv_main_title.setText("教学计划");
                 line.setVisibility(View.VISIBLE);
-                toolbar.setTitle("主页");
+                toolbar.setTitle("教学计划");
                 break;
         }
     }
