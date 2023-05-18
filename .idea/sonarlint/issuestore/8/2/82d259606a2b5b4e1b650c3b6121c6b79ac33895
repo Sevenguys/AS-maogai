@@ -1,0 +1,42 @@
+
+f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šß£²
+>
+java:S16048"(Make this anonymous inner class a lambda(êİÈ
+>
+java:S1604@"(Make this anonymous inner class a lambda(¨ŠÀë
+?
+java:S1604š"(Make this anonymous inner class a lambda(ÉãÃ®
+r	java:S116"XRename this field "tv_main_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÆÕàûÿÿÿÿ
+f	java:S116"RRename this field "tv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªšµC
+k	java:S116"WRename this field "btn_register" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êód
+q	java:S116"WRename this field "et_user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µœëúÿÿÿÿ
+k	java:S116"QRename this field "et_psw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µœëúÿÿÿÿ
+q	java:S116"WRename this field "et_psw_again" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µœëúÿÿÿÿ
+q	java:S116"WRename this field "rl_title_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ª«šÿÿÿÿÿ
+^
+java:S1659"CDeclare "et_psw" and all following declarations on a separate line.(µœëúÿÿÿÿ
+V
+java:S1659"@Declare "psw" and all following declarations on a separate line.(²¡Û³
+p
+java:S1450"[Remove the "btn_register" field and declare it as a local variable in the relevant methods.(êód
+v
+java:S1450"[Remove the "rl_title_bar" field and declare it as a local variable in the relevant methods.(¢ª«šÿÿÿÿÿ
+k
+java:S1450"VRemove the "tv_back" field and declare it as a local variable in the relevant methods.(ªšµC
+w
+java:S1450"\Remove the "tv_main_title" field and declare it as a local variable in the relevant methods.(ÚÆÕàûÿÿÿÿ
+1
+java:S3626H"Remove this redundant jump.(ûÁİ…
+1
+java:S3626K"Remove this redundant jump.(ûÁİ…
+1
+java:S3626N"Remove this redundant jump.(ûÁİ…
+1
+java:S3626Q"Remove this redundant jump.(ûÁİ…
+1
+java:S3626W"Remove this redundant jump.(ûÁİ…
+V	java:S125x"<This block of commented-out lines of code should be removed.(‹¤”úÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(àíò©øÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(È¦ºøúÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ïÑò˜
+R	java:S125"<This block of commented-out lines of code should be removed.(âöÛ„

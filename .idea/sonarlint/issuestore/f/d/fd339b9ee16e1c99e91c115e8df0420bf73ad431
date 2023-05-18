@@ -1,0 +1,41 @@
+
+d
+java:S1192}"IDefine a constant instead of duplicating this literal "#666666" 12 times.(øÆ°·úÿÿÿÿ
+^
+java:S1192|"HDefine a constant instead of duplicating this literal "#0097F7" 4 times.(ˆ†ÃŞ
+r	java:S116""XRename this field "tv_main_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼´ŞÖøÿÿÿÿ
+l	java:S116#"RRename this field "tv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¡ Ùøÿÿÿÿ
+i	java:S116$"TRename this field "title_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¨Ö
+y	java:S116%"_Rename this field "bottom_bar_text_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ã¢ûÿÿÿÿ
+t	java:S116&"`Rename this field "bottom_bar_image_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃôØZ
+n	java:S116'"TRename this field "main_body" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çùîçøÿÿÿÿ
+{	java:S116("aRename this field "bottom_bar_text_course" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï˜Íùÿÿÿÿ
+w	java:S116)"bRename this field "bottom_bar_image_course" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—„…æ
+u	java:S116*"`Rename this field "bottom_bar_course_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ØÓ«
+~	java:S116+"dRename this field "bottom_bar_text_exercises" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏĞÈ·ÿÿÿÿÿ
+z	java:S116,"eRename this field "bottom_bar_image_exercises" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ø“¯
+x	java:S116-"cRename this field "bottom_bar_exercises_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚ä
+t	java:S116."_Rename this field "bottom_bar_text_read" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áü›
+t	java:S116/"`Rename this field "bottom_bar_image_read" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‚—N
+s	java:S1160"^Rename this field "bottom_bar_read_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äşñ
+o	java:S1161"ZRename this field "main_bottom_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—âöú
+z
+java:S1450*"dRemove the "bottom_bar_course_btn" field and declare it as a local variable in the relevant methods.(€ØÓ«
+}
+java:S1450-"gRemove the "bottom_bar_exercises_btn" field and declare it as a local variable in the relevant methods.(Á‚ä
+x
+java:S14500"bRemove the "bottom_bar_read_btn" field and declare it as a local variable in the relevant methods.(äşñ
+s
+java:S1450'"XRemove the "main_body" field and declare it as a local variable in the relevant methods.(çùîçøÿÿÿÿ
+t
+java:S14501"^Remove the "main_bottom_bar" field and declare it as a local variable in the relevant methods.(—âöú
+n
+java:S1450$"XRemove the "title_bar" field and declare it as a local variable in the relevant methods.(•¨Ö
+<	java:S131y""Add a default case to this switch.(øãş•ÿÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(Çäé
+=	java:S131Ü""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.( à©Úøÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(±ë…¾şÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(’¡Ú‡ÿÿÿÿÿ
+F
+java:S1068#"+Remove this unused "tv_back" private field.(²¡ Ùøÿÿÿÿ

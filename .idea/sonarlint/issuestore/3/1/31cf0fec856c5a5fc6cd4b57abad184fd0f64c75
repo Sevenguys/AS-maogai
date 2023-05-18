@@ -1,0 +1,37 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Çáæ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Ê»üûÿÿÿÿ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³Äë
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŒ•š
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ùíûÿÿÿÿ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŒ•š
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÅù·øÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŒ•š
+l	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‘ÅÈşÿÿÿÿ
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå°»
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŒ•š
+D
+java:S1604«"(Make this anonymous inner class a lambda(­ŞÜ¼şÿÿÿÿ
+D
+java:S1604º"(Make this anonymous inner class a lambda(¤ûîıÿÿÿÿ
+?
+java:S1604É"(Make this anonymous inner class a lambda(æöƒË
+?
+java:S1604Ø"(Make this anonymous inner class a lambda(Í©Ø
+]
+java:S2259O"BA "NullPointerException" could be thrown; "bean" is nullable here.(ìÙÌñıÿÿÿÿ
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(¹ó÷¯úÿÿÿÿ
+@
+java:S1068"+Remove this unused "context" private field.(êİç
+M
+java:S1068"2Remove this unused "layoutInflater" private field.(†üªŞûÿÿÿÿ

@@ -1,0 +1,11 @@
+
+‚
+java:S14885"`Immediately return this expression instead of assigning it to the temporary variable "rootView".(½Û—ùÿÿÿÿ8—öÒ‚1
+}
+java:S1450"[Remove the "mContentText" field and declare it as a local variable in the relevant methods.(¯š„ıÿÿÿÿ8»öÒ‚1
+r
+java:S1450"VRemove the "webview" field and declare it as a local variable in the relevant methods.(Ãîªd8»öÒ‚1
+T
+java:S1135<"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÇöÒ‚1
+R
+java:S1068"0Remove this unused "mContentText" private field.(¯š„ıÿÿÿÿ8ÈöÒ‚1

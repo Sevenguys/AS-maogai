@@ -1,0 +1,46 @@
+
+f
+java:S1192ƒ"JDefine a constant instead of duplicating this literal "loginInfo" 4 times.(®İ‘±üÿÿÿÿ
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú«Ÿ¯üÿÿÿÿ
+>
+java:S16043"(Make this anonymous inner class a lambda(êİÈ
+=
+java:S1604i"(Make this anonymous inner class a lambda(‘ˆ®i
+a
+java:S1301>"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ
+w
+java:S1488—"`Immediately return this expression instead of assigning it to the temporary variable "security".(—¯âø
+f	java:S116"RRename this field "tv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªšµC
+r	java:S116"XRename this field "tv_main_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÆÕàûÿÿÿÿ
+i	java:S116"TRename this field "title_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¨Ö
+k	java:S116"WRename this field "tv_user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óü¼F
+q	java:S116"WRename this field "et_user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·‡Ïßıÿÿÿÿ
+p	java:S116"[Rename this field "et_validate_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºØò«
+q	java:S116"WRename this field "tv_reset_psw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÛŠøÿÿÿÿ
+l	java:S116"WRename this field "et_reset_psw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â±û 
+l	java:S116"WRename this field "btn_validate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÌËõ
+n
+java:S1450"XRemove the "title_bar" field and declare it as a local variable in the relevant methods.(•¨Ö
+k
+java:S1450"VRemove the "tv_back" field and declare it as a local variable in the relevant methods.(ªšµC
+w
+java:S1450"\Remove the "tv_main_title" field and declare it as a local variable in the relevant methods.(ÚÆÕàûÿÿÿÿ
+p
+java:S1450"[Remove the "tv_user_name" field and declare it as a local variable in the relevant methods.(óü¼F
+7	java:S131>""Add a default case to this switch.(ºÖ
+m
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(™§øûıÿÿÿÿ
+1
+java:S3626J"Remove this redundant jump.(ûÁİ…
+1
+java:S3626P"Remove this redundant jump.(ûÁİ…
+1
+java:S3626W"Remove this redundant jump.(ûÁİ…
+1
+java:S3626Z"Remove this redundant jump.(ûÁİ…
+1
+java:S3626]"Remove this redundant jump.(ûÁİ…
+1
+java:S3626`"Remove this redundant jump.(ûÁİ…
+V	java:S125b"<This block of commented-out lines of code should be removed.(’ó”•üÿÿÿÿ
+Q	java:S125}"<This block of commented-out lines of code should be removed.(»ÍÃ

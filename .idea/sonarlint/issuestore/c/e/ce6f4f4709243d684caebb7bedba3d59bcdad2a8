@@ -1,0 +1,40 @@
+
+x
+java:S1450"bRemove the "ivCourseHistoryIcon" field and declare it as a local variable in the relevant methods.(¹ˆ»Í
+t
+java:S1450"YRemove the "ivHeadIcon" field and declare it as a local variable in the relevant methods.(³®ÛÇûÿÿÿÿ
+t
+java:S1450$"^Remove the "ivUserInfoIcon1" field and declare it as a local variable in the relevant methods.(¦÷¦¤
+s
+java:S1450%"^Remove the "ivUserInfoIcon2" field and declare it as a local variable in the relevant methods.(¾×5
+t
+java:S1450&"^Remove the "ivUserInfoIcon3" field and declare it as a local variable in the relevant methods.(Ë¨Ñ„
+t
+java:S1450'"^Remove the "ivUserInfoIcon4" field and declare it as a local variable in the relevant methods.(Àõ¼Ç
+k
+java:S1450"URemove the "llHead" field and declare it as a local variable in the relevant methods.(Œ±Úí
+y
+java:S1450"^Remove the "rlCourseHistory" field and declare it as a local variable in the relevant methods.(Ğı´âüÿÿÿÿ
+o
+java:S1450"YRemove the "rlSetting1" field and declare it as a local variable in the relevant methods.(Ó…Øñ
+t
+java:S1450 "YRemove the "rlSetting2" field and declare it as a local variable in the relevant methods.(Äû¦”øÿÿÿÿ
+t
+java:S1450!"YRemove the "rlSetting3" field and declare it as a local variable in the relevant methods.(ä˜ñ³ıÿÿÿÿ
+o
+java:S1450""YRemove the "rlSetting4" field and declare it as a local variable in the relevant methods.(¤èÜÂ
+n
+java:S1450"YRemove the "tvUserName" field and declare it as a local variable in the relevant methods.(¸‡ÿ
+<	java:S131U""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+I
+java:S1068".Remove this unused "ivHeadIcon" private field.(³®ÛÇûÿÿÿÿ
+M
+java:S1068"7Remove this unused "ivCourseHistoryIcon" private field.(¹ˆ»Í
+I
+java:S1068$"3Remove this unused "ivUserInfoIcon1" private field.(¦÷¦¤
+H
+java:S1068%"3Remove this unused "ivUserInfoIcon2" private field.(¾×5
+I
+java:S1068&"3Remove this unused "ivUserInfoIcon3" private field.(Ë¨Ñ„
+I
+java:S1068'"3Remove this unused "ivUserInfoIcon4" private field.(Àõ¼Ç

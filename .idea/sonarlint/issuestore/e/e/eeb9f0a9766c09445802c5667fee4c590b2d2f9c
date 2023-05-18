@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊΈΞ8Θεξ¨‚1
+^
+java:S1854"<Remove this useless assignment to local variable "textView".(’Δυ‹ϊÿÿÿÿ8οεξ¨‚1
+\
+java:S1161":Add the "@Override" annotation above this method signature(ξ•Ιπϋÿÿÿÿ8οεξ¨‚1
+O
+java:S1481"-Remove this unused "textView" local variable.(’Δυ‹ϊÿÿÿÿ8ρεξ¨‚1
+X
+java:S1874"6Remove this use of "getPackageInfo"; it is deprecated.(φ”•§ϊÿÿÿÿ8ρεξ¨‚1
+O
+java:S1068"2Remove this unused "toolsViewModel" private field.(ΏÒΩΩ8ςεξ¨‚1
