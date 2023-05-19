@@ -4,7 +4,6 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * Created by Jack on 2018/3/27.
  * 创建一个md5()方法
  * 过 MessageDigest 的 getInstance()方法
  * 获取数据加密对象 digest，然后通过该对象的 digest()方法对密码进行加密

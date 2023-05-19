@@ -190,7 +190,7 @@ public class VideoListActivity extends Activity {
                 tvIntro.setTextColor(Color.parseColor("#000000"));
                 tvVideo.setTextColor(Color.parseColor("#000000"));
                 tvCourse.setTextColor(Color.parseColor("#FFFFFF"));
-                String  path="http://192.168.60.1/andriodData/kejian/"+chapterId+".html";
+                String  path="http://192.168.137.1/andriodData/kejian/"+chapterId+".html";
                 webViewInfo.getSettings().setJavaScriptEnabled(true);
                 webViewInfo.loadUrl(path);}
         });

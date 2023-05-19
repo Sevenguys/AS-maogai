@@ -22,12 +22,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- * @Classname ChatFragment
- * @Description TODO
- * @Date 2021/1/17 21:24
- * @Created by yujun059
- */
 public class ChatFragment extends Fragment {
 
     public View onCreateView(@NonNull LayoutInflater inflater,

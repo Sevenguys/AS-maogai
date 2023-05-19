@@ -1,11 +1,6 @@
 package com.example.mycourse.activity;
 
-/**
- * @Classname SplashActivity
- * @Description TODO
- * @Date 2021/1/15 17:59
- * @Created by yujun059
- */
+
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.content.pm.PackageInfo;

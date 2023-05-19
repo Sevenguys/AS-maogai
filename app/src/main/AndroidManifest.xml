@@ -34,7 +34,6 @@
         </activity>
         <activity android:name=".activity.LoginActivity" android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".activity.RegisterActivity" android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".activity.FindPswActivity" android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".activity.ExercisesDetailActivity" android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".activity.VideoListActivity"></activity>
         <activity android:name=".activity.VideoPlayActivity"></activity>

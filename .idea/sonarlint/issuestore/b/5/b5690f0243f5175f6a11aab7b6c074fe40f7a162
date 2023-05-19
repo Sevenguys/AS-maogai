@@ -1,14 +1,0 @@
-
-l
-java:S11928"VDefine a constant instead of duplicating this literal "DROP TABLE IF EXISTS " 3 times.(Ì¨è
-i
-java:S1192"SDefine a constant instead of duplicating this literal "userName VARCHAR, " 3 times.(¶Åş•
-w
-java:S1192"\Define a constant instead of duplicating this literal "CREATE TABLE IF NOT EXISTS " 3 times.(¡øËŒùÿÿÿÿ
-i
-java:S1104	"SMake DB_NAME a static final constant or non-public and provide accessors if needed.(³úóé
-C
-java:S1444	"-Make this "public static DB_NAME" field final(³úóé
-h
-java:S3008	"RRename this field "DB_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³úóé
-Q	java:S125"<This block of commented-out lines of code should be removed.(Ô›†

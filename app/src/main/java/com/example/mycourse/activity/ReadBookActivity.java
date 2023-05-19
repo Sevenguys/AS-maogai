@@ -44,21 +44,21 @@ public class ReadBookActivity extends Activity {
         Intent intent=getIntent();
 
         switch (intent.getStringExtra("st")){
-            case "2131230909":
-                tv_main_title.setText("共产党宣言");//1.txt
-                webView.loadUrl("http://192.168.60.1/andriodData/readBook/1.txt");
-            break;
-            case "2131230910":
-                tv_main_title.setText("在延安座谈会上的讲话");//2.txt
-                webView.loadUrl("http://192.168.60.1/andriodData/readBook/2.txt");
-                break;
             case "2131230911":
-                tv_main_title.setText("邓小平文选");//3.txt
-                webView.loadUrl("http://192.168.60.1/andriodData/readBook/3.txt");
-                break;
+                tv_main_title.setText("共产党宣言");//1.txt
+                webView.loadUrl("http://192.168.137.1/andriodData/readBook/1.txt");
+            break;
             case "2131230912":
+                tv_main_title.setText("在延安座谈会上的讲话");//2.txt
+                webView.loadUrl("http://192.168.137.1/andriodData/readBook/2.txt");
+                break;
+            case "2131230913":
+                tv_main_title.setText("邓小平文选");//3.txt
+                webView.loadUrl("http://192.168.137.1/andriodData/readBook/3.txt");
+                break;
+            case "2131230914":
                 tv_main_title.setText("论共产党员的修养");//4.txt
-                webView.loadUrl("http://192.168.60.1/andriodData/readBook/4.txt");
+                webView.loadUrl("http://192.168.137.1/andriodData/readBook/4.txt");
                 break;
         }
         webView.setWebViewClient(new WebViewClient(){

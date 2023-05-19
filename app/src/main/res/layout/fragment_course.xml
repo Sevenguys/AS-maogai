@@ -23,7 +23,7 @@
             android:layout_height="match_parent"
             android:layout_marginLeft="5dp"
             android:gravity="center_vertical"
-            android:text="《毛概》全书十五章的电子课件"
+            android:text="《毛泽东思想和中国特色社会主义理论体系概论》"
             android:textSize="16sp"
             android:textColor="@android:color/black"
             android:textStyle="bold"/>

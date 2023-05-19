@@ -33,7 +33,7 @@ public class ShareFragment extends Fragment {
         intent.setType("text/plain");
         intent.putExtra(Intent.EXTRA_SUBJECT, "分享");
         intent.putExtra(Intent.EXTRA_TEXT, "欢迎使用毛中特思想学习" +
-                    "http:/192.168.60.1/androidData/down.html");
+                    "http://192.168.137.1/andriodData/download.html");
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(Intent.createChooser(intent, getActivity().getTitle()));
     }

@@ -13,12 +13,6 @@ import com.example.mycourse.bean.ExercisesBean;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Classname ExercisesFragment
- * @Description TODO
- * @Date 2021/1/16 16:18
- * @Created by yujun059
- */
 public class ExercisesFragment extends Fragment {
 
     private ListView vlist;//传给fragment_exercises

@@ -13,7 +13,7 @@
             android:id="@+id/iv_video_icon"
             android:layout_width="100dp"
             android:layout_height="75dp"
-            android:src="@drawable/video_play_icon2"/>
+            android:src="@drawable/exercises_bg_3"/>
         <ImageView
             android:layout_width="30dp"
             android:layout_height="30dp"

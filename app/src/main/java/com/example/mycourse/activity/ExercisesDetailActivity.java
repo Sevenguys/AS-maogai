@@ -1,6 +1,7 @@
 package com.example.mycourse.activity;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
@@ -49,7 +50,7 @@ public class ExercisesDetailActivity extends Activity {
     private static TextView text_time = null;
     private static TimeCount time;
     //注册计时器
-    class TimeCount extends CountDownTimer {
+    class TimeCount extends CountDownTimer {//安排一个倒计时，直到将来的某个时间，并在途中每隔一段时间定期通知。
         public TimeCount(long millisInFuture, long countDownInterval) {
             super(millisInFuture, countDownInterval);// 参数依次为总时长,和计时的时间间隔
         }
@@ -57,7 +58,8 @@ public class ExercisesDetailActivity extends Activity {
         @Override
         public void onFinish() {// 计时完毕时触发
             Toast.makeText(ExercisesDetailActivity.this,"考试结束，共计"+score+"分",Toast.LENGTH_SHORT).show();
-            ExercisesDetailActivity.this.finish();
+            //制作一个只包含文本的标准内容
+           ExercisesDetailActivity.this.finish();//当你打开的Activity已经执行完成并且需要被关闭的时候可以调用这个方法，当你按返回的时候，它将返回到当前Activity的发起者
         }
 
         @Override
@@ -66,7 +68,7 @@ public class ExercisesDetailActivity extends Activity {
             text_time.setText("倒计时："+curr_time + "秒");
             if(curr_time==120){
                 Toast.makeText(ExercisesDetailActivity.this,"距离考试结束还有120秒",Toast.LENGTH_SHORT).show();
-
+                 //LENGTH_SHORT在短时间内显示视图或文本通知。这个时间可以由用户定义。这是默认设置。
             }
         }
     }
@@ -170,6 +172,7 @@ public class ExercisesDetailActivity extends Activity {
                                 break;
                             case 2:
                                 iv_b.setImageResource(R.drawable.exercises_right_icon);
+                                score+=10;
                                 break;
                             case 3:
                                 iv_b.setImageResource(R.drawable.exercises_error_icon);
@@ -202,6 +205,7 @@ public class ExercisesDetailActivity extends Activity {
                                 break;
                             case 3:
                                 iv_c.setImageResource(R.drawable.exercises_right_icon);
+                                score+=10;
                                 break;
                             case 4:
                                 iv_c.setImageResource(R.drawable.exercises_error_icon);
@@ -234,6 +238,7 @@ public class ExercisesDetailActivity extends Activity {
                                 break;
                             case 4:
                                 iv_d.setImageResource(R.drawable.exercises_right_icon);
+                                score+=10;
                                 break;
                         }
                         AnalysisUtils.setABCDEnable(false, iv_a, iv_b, iv_c, iv_d);

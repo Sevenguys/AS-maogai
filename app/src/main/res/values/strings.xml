@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">毛概中特思想学习</string>
+    <string name="app_name">毛中特思想学习</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">毛概中特思想学习</string>
-    <string name="nav_header_subtitle">欢迎来到毛概中特思想学习</string>
+    <string name="nav_header_title">毛中特思想学习</string>
+    <string name="nav_header_subtitle">欢迎来到毛中特思想学习</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">设置</string>
 
